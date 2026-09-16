@@ -1,71 +1,73 @@
-# 📊 HR Analytics & Employee Attrition Dashboard
+# HR Analytics & Employee Attrition Dashboard
 
-## 📌 Project Overview
+## 📊 Project Overview
 
-This project focuses on analyzing **HR data and employee attrition** using Power BI. The goal is to transform raw employee data into meaningful insights that can help understand workforce trends and factors related to employee turnover.
+This project is an **HR Analytics and Employee Attrition Analysis** project developed using **Power BI** and employee data. The main goal is to analyze employee information, identify factors associated with employee attrition, and provide meaningful insights that can support HR decision-making.
+
+The project includes data cleaning, transformation, exploratory analysis, KPI creation, and an interactive Power BI dashboard.
 
 ## 🎯 Objectives
 
-* Analyze employee demographics and job information.
-* Measure employee attrition and identify patterns.
-* Compare attrition across departments and job roles.
-* Explore the impact of overtime, salary, satisfaction, and experience.
-* Create interactive KPIs and visualizations.
-* Provide data-driven HR insights and recommendations.
+* Analyze employee demographics and job-related information.
+* Measure and understand the employee attrition rate.
+* Identify departments and job roles with higher attrition.
+* Analyze the relationship between salary, overtime, job satisfaction, and attrition.
+* Identify important patterns and trends in employee behavior.
+* Build an interactive dashboard for HR decision-making.
+* Provide data-driven findings and recommendations.
 
 ## 🛠️ Tools & Technologies
 
 * **Power BI**
 * **Power Query**
 * **DAX**
-* **CSV**
+* **CSV / Dataset**
 * **Data Cleaning & Transformation**
-* **Data Analysis & Visualization**
+* **Data Visualization**
+* **HR Analytics**
 
-## 🔄 Project Workflow
+## 📈 Dashboard
 
-The project follows these main steps:
+The Power BI dashboard provides an interactive view of key HR metrics and employee attrition patterns.
 
-**Data Overview → Data Cleaning & Transformation → Business Questions & Analysis → Dashboard → Key Findings & Recommendations → Conclusion**
-
-## 📊 Dashboard
-
-The interactive Power BI dashboard provides an overview of important HR metrics, including:
+Key areas include:
 
 * Total Employees
 * Attrition Count
 * Attrition Rate
 * Department Analysis
 * Job Role Analysis
-* Salary & Income
-* Overtime
+* Employee Demographics
+* Salary and Income Analysis
+* Overtime Analysis
 * Job Satisfaction
-* Age & Demographics
-* Years at Company
+* Employee Experience and Tenure
 
-Interactive filters and slicers allow users to explore the data from different perspectives.
+Users can interact with the dashboard using filters and slicers to explore different employee segments.
 
-## 🔍 Business Analysis
+## 🔍 Key Analysis Areas
 
-The project investigates questions such as:
+The project investigates several important HR business questions, including:
 
-* Which departments have higher attrition?
-* Which job roles are more affected by attrition?
-* How does overtime relate to employee turnover?
-* Is there a relationship between income and attrition?
-* How does job satisfaction relate to employee retention?
-* How do age and years at the company relate to attrition?
+* What is the overall employee attrition rate?
+* Which departments experience higher attrition?
+* Which job roles have the highest attrition?
+* How does overtime relate to employee attrition?
+* How does monthly income differ between employees who leave and those who stay?
+* How does job satisfaction relate to attrition?
+* How do age and years at the company relate to employee retention?
 
-## 💡 Key Outcome
+## 💡 Business Value
 
-The project converts raw HR data into **clear, interactive, and data-driven insights** that can help organizations better understand employee attrition and support workforce management and retention strategies.
+The analysis helps HR teams better understand employee attrition patterns and identify areas that may require further investigation. The dashboard transforms raw employee data into interactive visual insights that can support **data-driven HR planning and employee retention strategies**.
 
-## 📁 Project Files
+## 📁 Project Contents
 
-* `HR_Analytics-4.csv` — HR dataset
-* `PowerBI_Dashboard_HRData.pbix` — Power BI dashboard
-* `README.md` — Project documentation
+* `HR_Analytics-4.csv` – HR employee dataset
+* `WA_Fn-UseC_-HR-Employee-Attrition.csv` – Employee attrition dataset
+* `PowerBI_Dashboard_HRData.pbix` – Power BI dashboard
+* `README.md` – Project documentation
 
 ## 👩‍💻 Project Type
 
-**HR Analytics | Data Analysis | Power BI Dashboard | Employee Attrition**
+**HR Analytics | Data Analysis | Power BI Dashboard | Employee Attrition Analysis**
